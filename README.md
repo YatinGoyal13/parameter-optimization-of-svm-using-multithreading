@@ -23,3 +23,10 @@ Attribute Information:
 5. Black King file
 6. Black King rank
 7. optimal depth-of-win for White in 0 to 16 moves, otherwise drawn {draw, zero, one, two, ..., sixteen}.
+
+Results
+<img width="398" alt="Screenshot 2023-04-20 at 4 35 49 AM" src="https://user-images.githubusercontent.com/77913712/233218257-13cca51f-824e-4c09-a5d3-473c38826b8a.png">
+
+Convergence Graph
+<img width="563" alt="Screenshot 2023-04-20 at 4 36 34 AM" src="https://user-images.githubusercontent.com/77913712/233218344-6b6952ae-9d1c-4a39-ba9e-3c08472df5a3.png">
+
