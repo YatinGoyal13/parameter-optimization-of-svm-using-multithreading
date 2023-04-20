@@ -32,5 +32,7 @@ Attribute Information:
 
 <img width="563" alt="Screenshot 2023-04-20 at 4 36 34 AM" src="https://user-images.githubusercontent.com/77913712/233218344-6b6952ae-9d1c-4a39-ba9e-3c08472df5a3.png">
 
+# using multi-threading
 
+Also done the optimization using multi-threading to obtain the results faster..
 
